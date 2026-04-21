@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Electronic Ledger - Personal Finance Management"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Electronic Ledger Application"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Electronic Ledger"
+    }
+  ]
+}
