@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "app_title",
+      "value": "运动打卡"
+    },
+    {
+      "name": "exercise_type",
+      "value": "运动类型"
+    },
+    {
+      "name": "duration",
+      "value": "时长（分钟）"
+    },
+    {
+      "name": "note",
+      "value": "备注"
+    },
+    {
+      "name": "log_exercise",
+      "value": "打卡"
+    },
+    {
+      "name": "history",
+      "value": "历史记录"
+    },
+    {
+      "name": "no_records",
+      "value": "暂无记录"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "clear_all",
+      "value": "清空记录"
+    },
+    {
+      "name": "confirm_clear",
+      "value": "确定要清空所有记录吗？"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "confirm",
+      "value": "确认"
+    },
+    {
+      "name": "running",
+      "value": "跑步"
+    },
+    {
+      "name": "cycling",
+      "value": "骑行"
+    },
+    {
+      "name": "swimming",
+      "value": "游泳"
+    },
+    {
+      "name": "walking",
+      "value": "步行"
+    },
+    {
+      "name": "yoga",
+      "value": "瑜伽"
+    },
+    {
+      "name": "other",
+      "value": "其他"
+    }
+  ]
+}
